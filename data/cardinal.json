@@ -1,0 +1,173 @@
+{
+  "words": {
+    "1": "один",
+    "2": "два",
+    "3": "три",
+    "4": "четыре",
+    "5": "пять",
+    "6": "шесть",
+    "7": "семь",
+    "8": "восемь",
+    "9": "девять",
+    "10": "десять",
+    "11": "одиннадцать",
+    "12": "двенадцать",
+    "13": "тринадцать",
+    "14": "четырнадцать",
+    "15": "пятнадцать",
+    "16": "шестнадцать",
+    "17": "семнадцать",
+    "18": "восемнадцать",
+    "19": "девятнадцать",
+    "20": "двадцать",
+    "30": "тридцать",
+    "40": "сорок",
+    "50": "пятьдесят",
+    "60": "шестьдесят",
+    "70": "семьдесят",
+    "80": "восемьдесят",
+    "90": "девяносто",
+    "100": "сто",
+    "200": "двести",
+    "300": "триста",
+    "400": "четыреста",
+    "500": "пятьсот",
+    "600": "шестьсот",
+    "700": "семьсот",
+    "800": "восемьсот",
+    "900": "девятьсот"
+  },
+  "exponents": {
+    "1000": "тысяча",
+    "1000000": "миллион",
+    "1000000000": "миллиард",
+    "1000000000000": "триллион",
+    "1000000000000000": "квадриллион"
+  },
+  "precalculated": {
+    "один": {
+      "male": {
+        "nominative": "один",
+        "genitive": "одного",
+        "dative": "одному",
+        "accusative": "один",
+        "ablative": "одним",
+        "prepositional": "одном"
+      },
+      "female": {
+        "nominative": "одна",
+        "genitive": "одной",
+        "dative": "одной",
+        "accusative": "одну",
+        "ablative": "одной",
+        "prepositional": "одной"
+      },
+      "neutral": {
+        "nominative": "одно",
+        "genitive": "одного",
+        "dative": "одному",
+        "accusative": "одно",
+        "ablative": "одним",
+        "prepositional": "одном"
+      },
+      "plural": {
+        "nominative": "одни",
+        "genitive": "одних",
+        "dative": "одним",
+        "accusative": "одни",
+        "ablative": "одними",
+        "prepositional": "одних"
+      }
+    },
+    "два": {
+      "male": {
+        "nominative": "два",
+        "genitive": "двух",
+        "dative": "двум",
+        "accusative": "два",
+        "ablative": "двумя",
+        "prepositional": "двух"
+      },
+      "female": {
+        "nominative": "две",
+        "genitive": "двух",
+        "dative": "двум",
+        "accusative": "две",
+        "ablative": "двумя",
+        "prepositional": "двух"
+      },
+      "neutral": {
+        "nominative": "два",
+        "genitive": "двух",
+        "dative": "двум",
+        "accusative": "два",
+        "ablative": "двумя",
+        "prepositional": "двух"
+      },
+      "plural": {
+        "nominative": "два",
+        "genitive": "двух",
+        "dative": "двум",
+        "accusative": "два",
+        "ablative": "двумя",
+        "prepositional": "двух"
+      }
+    },
+    "три": {
+      "nominative": "три",
+      "genitive": "трех",
+      "dative": "трем",
+      "accusative": "три",
+      "ablative": "тремя",
+      "prepositional": "трех"
+    },
+    "четыре": {
+      "nominative": "четыре",
+      "genitive": "четырех",
+      "dative": "четырем",
+      "accusative": "четыре",
+      "ablative": "четырьмя",
+      "prepositional": "четырех"
+    },
+    "восемь": {
+      "nominative": "восемь",
+      "genitive": "восьми",
+      "dative": "восьми",
+      "accusative": "восемь",
+      "ablative": "восьмью",
+      "prepositional": "восьми"
+    },
+    "восемьдесят": {
+      "nominative": "восемьдесят",
+      "genitive": "восьмидесяти",
+      "dative": "восьмидесяти",
+      "accusative": "восемьдесят",
+      "ablative": "восемьюдесятью",
+      "prepositional": "восьмидесяти"
+    },
+    "двести": {
+      "nominative": "двести",
+      "genitive": "двухсот",
+      "dative": "двумстам",
+      "accusative": "двести",
+      "ablative": "двумястами",
+      "prepositional": "двухстах"
+    },
+    "восемьсот": {
+      "nominative": "восемьсот",
+      "genitive": "восьмисот",
+      "dative": "восьмистам",
+      "accusative": "восемьсот",
+      "ablative": "восемьюстами",
+      "prepositional": "восьмистах"
+    },
+    "тысяча": {
+      "nominative": "тысяча",
+      "genitive": "тысячи",
+      "dative": "тысяче",
+      "accusative": "тысячу",
+      "ablative": "тысячей",
+      "prepositional": "тысяче"
+    }
+  }
+}
